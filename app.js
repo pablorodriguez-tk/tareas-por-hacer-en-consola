@@ -55,7 +55,7 @@ const main = async() => {
 
             break;
 
-    }
+    }   
 
     guardarDB( tareas.listadoArr );
 
